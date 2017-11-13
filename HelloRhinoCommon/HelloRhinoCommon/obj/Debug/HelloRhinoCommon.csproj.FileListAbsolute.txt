@@ -1,0 +1,6 @@
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/bin/Debug/HelloRhinoCommon.dll
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/bin/Debug/HelloRhinoCommon.dll.mdb
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/obj/Debug/HelloRhinoCommon.csprojResolveAssemblyReference.cache
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/obj/Debug/HelloRhinoCommon.csproj.CoreCompileInputs.cache
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/obj/Debug/HelloRhinoCommon.dll
+/Users/jasonbrain/Projects/HelloRhinoCommon/HelloRhinoCommon/obj/Debug/HelloRhinoCommon.dll.mdb
