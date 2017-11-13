@@ -1,0 +1,6 @@
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/bin/Debug/NumberToRoman.dll
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/bin/Debug/NumberToRoman.dll.mdb
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/obj/Debug/NumberToRoman.csprojResolveAssemblyReference.cache
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/obj/Debug/NumberToRoman.csproj.CoreCompileInputs.cache
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/obj/Debug/NumberToRoman.dll
+/Users/jasonbrain/Projects/NumberToRoman/NumberToRoman/obj/Debug/NumberToRoman.dll.mdb

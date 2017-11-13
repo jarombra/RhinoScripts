@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7B573F4A-9CCE-429B-A40B-B428A67A1C92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberToRoman/NumberToRomanCommand.cs">
+    <Files>
+      <File FileName="NumberToRoman/NumberToRomanCommand.cs" Line="69" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NumberToRoman PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
