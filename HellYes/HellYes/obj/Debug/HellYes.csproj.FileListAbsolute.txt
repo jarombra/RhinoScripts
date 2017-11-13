@@ -1,0 +1,6 @@
+/Users/jasonbrain/Projects/HellYes/HellYes/bin/Debug/HellYes.dll
+/Users/jasonbrain/Projects/HellYes/HellYes/bin/Debug/HellYes.dll.mdb
+/Users/jasonbrain/Projects/HellYes/HellYes/obj/Debug/HellYes.csprojResolveAssemblyReference.cache
+/Users/jasonbrain/Projects/HellYes/HellYes/obj/Debug/HellYes.csproj.CoreCompileInputs.cache
+/Users/jasonbrain/Projects/HellYes/HellYes/obj/Debug/HellYes.dll
+/Users/jasonbrain/Projects/HellYes/HellYes/obj/Debug/HellYes.dll.mdb

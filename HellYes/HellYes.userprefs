@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F44CE7B8-A0E4-4FB1-961C-DEC3A91DB311}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HellYes/HellYesCommand.cs">
+    <Files>
+      <File FileName="HellYes/HellYesCommand.cs" Line="84" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HellYes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
